@@ -1,0 +1,14 @@
+ID	Ülke	Üretim (GWh)	Tüketim (GWh)	Ceza Katsayýsý*	Enerji Satýþ Fiyatý (€) 
+1	Almanya	600000	570000	80	9
+2	Fransa	550000	520000	70	8
+3	Ýspanya	300000	330000	90	6
+4	Portekiz	80000	90000	45	5
+5	Ýtalya	450000	500000	85	7
+6	Hollanda	120000	150000	60	9
+7	Polonya	200000	230000	50	4
+8	Ýsviçre	220000	260000	85	6
+9	Avusturya	340000	300000	30	4
+10	Belçika	250000	300000	60	5
+11	Macaristan	200000	190000	80	6
+12	Hýrvatistan	120000	150000	40	4
+13	Çekya	180000	170000	55	2
